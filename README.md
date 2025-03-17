@@ -41,3 +41,7 @@ upcoming - Lists upcoming movies.
 
 top - Shows top-rated movies.
 ```
+
+### Liscense
+
+MIT Liscense approved.
