@@ -42,6 +42,11 @@ upcoming - Lists upcoming movies.
 top - Shows top-rated movies.
 ```
 
-### License
+## Coming features
+
+- Add more commands like getting more detailed information on a specific movie
+- Make it more simpler to use with minimal inputs
+
+## License
 
 MIT License approved.
