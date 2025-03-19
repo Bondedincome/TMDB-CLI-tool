@@ -46,6 +46,7 @@ top - Shows top-rated movies.
 
 - Add more commands like getting more detailed information on a specific movie
 - Make it more simpler to use with minimal inputs
+- Maybe add a GUI option
 
 ## License
 
