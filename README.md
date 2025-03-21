@@ -18,6 +18,12 @@ Run the CLI tool by executing:
 python TMDB_CLI_main.py
 ```
 
+## Features
+
+- Fetches movie information using the TMDB API.
+- Displays information in a user-friendly terminal format.
+- Supports multiple categories like currently playing, popular, and upcoming movies.
+
 ## Commands
 
 ```bash
